@@ -1,0 +1,16 @@
+README.md
+setup.py
+example/__init__.py
+example/main.py
+example/utils.py
+example/core/__init__.py
+example/core/database.py
+example/core/dependencies.py
+relative2absolute/__init__.py
+relative2absolute/cli.py
+relative2absolute/core.py
+relative2absolute.egg-info/PKG-INFO
+relative2absolute.egg-info/SOURCES.txt
+relative2absolute.egg-info/dependency_links.txt
+relative2absolute.egg-info/entry_points.txt
+relative2absolute.egg-info/top_level.txt
