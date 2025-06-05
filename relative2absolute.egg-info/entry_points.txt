@@ -1,2 +1,0 @@
-[console_scripts]
-relative2absolute = relative2absolute.cli:main
